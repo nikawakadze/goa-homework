@@ -1,11 +1,10 @@
-num1=input("pleas enter number1")
-num2=input("pleas enter number2")
+print("pleas enter your name")
+name=input()
+ 
+print("user input is:  " + name)
 
-print(int(num1) + int(num2))
-print(int(num1) - int(num2))
-print(int(num1) * int(num2))
-print(int(num1) / int(num2))
+print("enter your surname")
 
+surname=input()
 
-
-
+print("user input is:  " + surname)
